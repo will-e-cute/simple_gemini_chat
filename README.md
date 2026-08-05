@@ -21,3 +21,7 @@ gemini_chat_gui/
 ├── app.spec                 # Configuration PyInstaller pour la compilation
 ├── main.py                 # Interface graphique et point d'entrée
 └── requirements.txt
+
+
+.env is required with:
+GEMINI_API_KEY=Gemini_api_key
